@@ -9,15 +9,15 @@ This repository contains solutions to CryptoHack challenges completed as part of
 
 ## Progress Tracker
 
-### Current Score: ___ / 500 points
+### Current Score: 145 / 500 points
 
 ### Challenges Completed
 
 #### Beginner Challenges (4-6 challenges, 10-50 pts each)
-- [ ] Challenge Name - XX points
-- [ ] Challenge Name - XX points
-- [ ] Challenge Name - XX points
-- [ ] Challenge Name - XX points
+- ASCII - 5 points
+- Lemur XOR - 40 points
+- You either know, XOR you don't - 30 points
+- Modular Inverting - 25 points
 
 #### Intermediate Challenges (2-3 challenges, 60-120 pts each)
 - [ ] Challenge Name - XX points
@@ -59,4 +59,4 @@ CryptoHack/
 
 ## Notes
 
-Add any general notes, resources, or insights here.
+This is a repository for my CryptoHack Assessment 1. In Secure Communications module for TU863/Y3

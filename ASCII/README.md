@@ -1,8 +1,4 @@
-# SCII
-
-**Points:** 5  
-**Category:** General  
-**Link:** https://cryptohack.org/challenges/general/
+# ASCII
 
 ## Challenge Description
 
