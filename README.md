@@ -9,7 +9,7 @@ This repository contains solutions to CryptoHack challenges completed as part of
 
 ## Progress Tracker
 
-### Current Score: 145 / 500 points
+### Current Score: 265 / 500 points
 
 ### Challenges Completed
 
@@ -20,7 +20,7 @@ This repository contains solutions to CryptoHack challenges completed as part of
 - Modular Inverting - 25 points
 
 #### Intermediate Challenges (2-3 challenges, 60-120 pts each)
-- [ ] Challenge Name - XX points
+- Dancing Queen - 120 points
 - [ ] Challenge Name - XX points
 
 #### Advanced Challenges (1+ challenge, ≥150 pts)
